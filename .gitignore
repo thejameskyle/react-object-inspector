@@ -3,5 +3,6 @@ npm-debug.log
 .DS_Store
 
 dev
-lib
+build
+--lib
 gh-pages/
